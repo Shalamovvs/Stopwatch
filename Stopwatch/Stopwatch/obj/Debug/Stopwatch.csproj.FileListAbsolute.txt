@@ -1,0 +1,10 @@
+C:\Users\BoBa\source\repos\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+C:\Users\BoBa\source\repos\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe
+C:\Users\BoBa\source\repos\Stopwatch\Stopwatch\bin\Debug\Stopwatch.pdb
+C:\Users\BoBa\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csprojAssemblyReference.cache
+C:\Users\BoBa\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Form1.resources
+C:\Users\BoBa\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+C:\Users\BoBa\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.cache
+C:\Users\BoBa\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\BoBa\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.exe
+C:\Users\BoBa\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb
